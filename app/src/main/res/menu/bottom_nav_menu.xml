@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/food_navi"
+        android:id="@+id/mainfragment"
+        android:title="레시피" />
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/recomend_navi"
+        android:id="@+id/recomendfragment"
+        android:title="오늘 뭐 먹지?" />
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/happy_navi"
+        android:title="마이페이지"
+        android:id="@+id/mypagefragment" />
+</menu>
